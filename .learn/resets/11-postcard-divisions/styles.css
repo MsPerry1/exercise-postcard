@@ -1,0 +1,17 @@
+body {
+	background: black;
+}
+* {
+	border: 1px dashed rgb(204, 255, 0);
+	min-height: 10px;
+}
+p {
+    color:lime;
+}
+.postcard {
+    /* Don't forget to smile */
+    background:white;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}

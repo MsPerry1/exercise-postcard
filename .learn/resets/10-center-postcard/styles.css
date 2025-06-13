@@ -1,0 +1,10 @@
+body {
+	background: black;
+}
+* {
+	border: 1px dashed gold;
+	min-height: 10px;
+}
+p {
+    color:lime;
+}
